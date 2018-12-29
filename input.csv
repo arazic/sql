@@ -1,0 +1,5 @@
+initDB,C:\Users\user\Documents\לימודים\חומרי לימוד\סמסטר ה\בסיסי נתונים\עבודה 4\DB2019_Project_Ass4_DDL
+loadNeighborhoodsFromCsv,neighborhoods.csv
+updateEmployeeSalaries,3
+updateEmployeeSalaries,10
+getEmployeeTotalSalary,
